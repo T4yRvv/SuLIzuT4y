@@ -1,2 +1,25 @@
 # SuLIzuT4y
-神秘
+{
+    "FFlagDebugDisplayFPS": "True",
+    "FIntRobloxGuiBlurIntensity": "0",
+    "DFIntBandwidthManagerApplicationDefaultBps": "96000",
+    "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": "50",
+    "DFIntAssetPreloading": "2147483647",
+    "DFIntNumAssetsMaxToPreload": "2147483647",
+    "FStringGetPlayerImageDefaultTimeout": "1",
+    "FFlagEnablePreferredTextSizeScale": "True",
+    "FFlagEnablePreferredTextSizeSettingInMenus2": "True",
+    "DFFlagDebugPrintDataPingBreakDown": "True",
+    "DFIntDebugDynamicRenderKiloPixels": "2073",
+    "DFIntTaskSchedulerTargetFps": "75",
+    "DFFlagDebugPauseVoxelizer": "True",
+    "FIntRenderShadowIntensity": "0",
+    "FIntRenderShadowmapBias": "-1",
+    "FFlagDisablePostFx": "True",
+    "FIntFRMMaxGrassDistance": "0",
+    "FIntRenderGrassDetailStrands": "0",
+    "FIntFRMMinGrassDistance": "0",
+    "FFlagDebugSkyGray": "True",
+    "DFFlagTextureQualityOverrideEnabled": "True",
+    "DFIntTextureQualityOverride": "1"
+}
